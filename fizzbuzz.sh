@@ -1,6 +1,7 @@
 #!/bin/bash
 
-seq 1 100 | while read L; do
+for L in {1..100}
+do
 	FIZZ=$(($L % 3))
 	BUZZ=$(($L % 5))
 	
