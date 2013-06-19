@@ -15,6 +15,6 @@ do
 	# if remainder isn't zero in either case, print the number
 	[ $FIZZ -ne 0 ] && [ $BUZZ -ne 0 ] && echo -n $LINE
 
-	# print a newline character
-	echo
+	# print a salutation
+	echo "Goodbye"
 done
