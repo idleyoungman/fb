@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# iterate 100 times using bash brace expansion
-for LINE in {1..100}
+# iterate 42 times using bash brace expansion
+for LINE in {1..42}
 do
 	# get remainder when dividing by 3
 	FIZZ=$(($LINE % 3))
