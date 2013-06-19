@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Greetings, this is fizzbuzz."
+echo "Guten Tag, das ist fizzbuzz."
 
 # iterate 42 times using bash brace expansion
 for LINE in {1..42}
