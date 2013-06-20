@@ -18,5 +18,5 @@ do
 	[ $FIZZ -ne 0 ] && [ $BUZZ -ne 0 ] && echo -n $LINE
 
 	# print a salutation
-	echo "Goodbye"
+	echo "Auf Wiedersehen"
 done
