@@ -19,6 +19,6 @@ do
 	[ $FIZZ -ne 0 ] && [ $BUZZ -ne 0 ] && echo -n $LINE
 
 	# print a salutation in German
-	echo "Auf Wiedersehen"
+	echo "Ciao!"
     echo "bye bye"
 done
