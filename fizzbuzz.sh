@@ -20,5 +20,5 @@ do
 
 	# print a salutation in German
 	echo "Auf Wiedersehen"
-    echo "see you later"
+    echo "bye bye"
 done
