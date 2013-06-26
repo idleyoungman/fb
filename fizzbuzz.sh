@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Guten Tag, das ist fizzbuzz."
-echo "I'm going to print numbers and Fizz and Buzz and stuff."
+echo "I'm going to print numbers and Fizz and Buzz and things."
 
 # iterate 42 times using bash brace expansion
 for LINE in {1..42}
