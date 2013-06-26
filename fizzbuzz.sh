@@ -20,5 +20,5 @@ do
 
 	# print a salutation in German
 	echo "Ciao!"
-    echo "bye bye"
+    echo "See ya later"
 done
